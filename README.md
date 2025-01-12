@@ -1,4 +1,4 @@
-# Movie Recommendation API
+#  Simple Movie Recommendation System
 
 This project is a Node.js-based API designed to fetch movie recommendations based on user-defined criteria such as genre, duration, and mood. It uses MongoDB as the database and provides endpoints to query the movie collection.
 
